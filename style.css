@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: rgba(30, 144, 255, 0.9); /* semi-transparent header */
+  background-color: rgba(255, 192, 203, 0.9); /* pastel pink header */
   color: white;
   padding: 40px 0;
   text-align: center;
@@ -27,7 +27,7 @@ nav {
 nav a {
   margin: 0 15px;
   text-decoration: none;
-  color: #1e90ff;
+  color: #FFC0CB; /* pastel pink for links */
   font-weight: bold;
 }
 
