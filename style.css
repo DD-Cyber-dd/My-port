@@ -2,7 +2,7 @@ body {
   font-family: sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #FFF9C4; /* pastel yellow base */
+  background-color: #AEC6CF; /* pastel blue background */
   background-image: url('https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1600&q=80'); /* tech background */
   background-size: cover;
   background-repeat: no-repeat;
@@ -27,7 +27,7 @@ nav {
 nav a {
   margin: 0 15px;
   text-decoration: none;
-  color: black; /* now black links */
+  color: black; /* black navbar links */
   font-weight: bold;
 }
 
@@ -35,7 +35,7 @@ section {
   padding: 40px 20px;
   max-width: 800px;
   margin: auto;
-  background-color: rgba(255, 255, 255, 0.8); /* soft white box */
+  background-color: rgba(255, 255, 255, 0.8); /* soft white content box */
   border-radius: 10px;
   margin-top: 20px;
 }
