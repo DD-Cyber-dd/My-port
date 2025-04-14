@@ -27,7 +27,7 @@ nav {
 nav a {
   margin: 0 15px;
   text-decoration: none;
-  color: #AEC6CF; /* pastel blue for links */
+  color: black; /* now black links */
   font-weight: bold;
 }
 
